@@ -1,0 +1,44 @@
+body {
+  font-family: Helvetica;
+  background-color: rgb(245, 245, 245);
+  color: rgb(40, 40, 40);
+  margin: 0px;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+img {
+  width: 100px;
+}
+
+a {
+  color: red;
+}
+
+a:hover {
+  color: blue;
+}
+
+#banner {
+  background-image: url("https://picsum.photos/1000/400/?random");
+  background-size: cover;
+  text-align: center;
+  padding: 100px 0px;
+}
+
+.feature {
+  text-align: center;
+}
+
+#footer {
+  background-color: rgb(40, 40, 40);
+  color: white;
+  padding: 40px;
+  font-weight: bold;
+}
